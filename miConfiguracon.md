@@ -4,6 +4,7 @@ max_parallel_downloads=10
 defaultyes=True
 
 
+
 "sudo dnf install google-chrome-stable"
 
 #rpmfusion
